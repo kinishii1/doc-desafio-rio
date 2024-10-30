@@ -29,7 +29,7 @@ const links = {
   'Data Visualization':
   {
     title: 'Data Visualization questions',
-    link: '/docs/data-questions',
+    link: '/docs/category/data-visualization',
     color: 'danger',
   },
 

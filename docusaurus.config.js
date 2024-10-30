@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Desafio Rio Kin Ishii',
-  tagline: 'Processo para resolução dos desafios propostos Kin Ishii',
+  tagline: 'Processo de resolução dos desafios propostos',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -77,7 +77,7 @@ const config = {
           {to: '/docs/category/sql-questions', label: 'Sql Questions', position: 'left'},
           {to: '/docs/category/python-questions', label: 'Python Questions', position: 'left'},
           {to: '/docs/category/python-questions-2', label: 'Python Questions 2', position: 'left'},
-          {to: '/docs/data-questions', label: 'Data Visualization Questions', position: 'left'},
+          {to: '/docs/category/data-visualization', label: 'Data Visualization Questions', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
